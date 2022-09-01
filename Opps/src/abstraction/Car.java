@@ -4,7 +4,7 @@ public abstract class Car {
 
 	int price;
 	String brand;
-	void detData(int price, String brand) {
+	 void detData(int price, String brand) {
 		this.price=price;
 		this.brand=brand;
 	}

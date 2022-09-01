@@ -1,4 +1,5 @@
-package inheritance;
+ 
+ package inheritance;
 
 public class Pulsor extends Bike {
 
